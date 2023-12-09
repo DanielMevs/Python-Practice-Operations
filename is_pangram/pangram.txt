@@ -1,0 +1,1 @@
+A string is considered a pangram if the string contains all the ascii lowercase letters.
